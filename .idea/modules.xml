@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Dejan\Downloads\GroupChatApp-master\Chat.iml" filepath="C:\Users\Dejan\Downloads\GroupChatApp-master\Chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroupChatApp-master.iml" filepath="$PROJECT_DIR$/GroupChatApp-master.iml" />
+      <module fileurl="file://C:\Users\Dejan\Downloads\GroupChatApp-master\app\app.iml" filepath="C:\Users\Dejan\Downloads\GroupChatApp-master\app\app.iml" />
+    </modules>
+  </component>
+</project>

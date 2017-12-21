@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is the layout file for creating a new group -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_margin="16dp"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/group_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/new_group_name_prompt"/>
+    <TextView
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/new_group_pic_prompt"/>
+
+    <ImageButton
+        android:id="@+id/pic_select"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/ic_pic_select"/>
+
+    <TextView
+        style="?android:listSeparatorTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="or  "/>
+
+    <ImageButton
+        android:id="@+id/group_camera"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:src="@android:drawable/ic_menu_camera"/>
+    <Button
+        android:id="@+id/add_members"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/add_new_members"/>
+    <Button
+        android:id="@+id/create_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_dark"
+        android:text="@string/create_group"/>
+</LinearLayout>

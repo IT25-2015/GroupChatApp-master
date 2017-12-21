@@ -1,0 +1,2 @@
+# GroupChatApp
+This is a personal project that I started with a partner. My partner wrote the backend side of the project and I focused on the Android application. This application is a group chat application that organizes conversations by groups of members. Each group has a list of posts and each post will have its own conversation. The intent of this app is to make a group chat app that is based around the content posted to each group, thus creating a forum like setting to promote conversation revolving around the content of each post.

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="new_group_heading">New Group</string>
+    <string name="new_group_name_prompt">Enter a name for the group</string>
+    <string name="new_group_pic_prompt">Choose a picture for this group</string>
+    <string name="add_new_members">Add contacts</string>
+    <string name="create_group">Create</string>
+    <string name="new_group">New Group</string>
+    <string name="new_post">New Post</string>
+    <string name="new_post_heading">New Post</string>
+    <string name="new_post_name_prompt">Enter a title for the post</string>
+    <string name="choose_upload">Choose a method to upload content</string>
+    <string name="website">Enter a url...</string>
+    <string name="description">Write a description</string>
+    <string name="post">Post to group</string>
+
+</resources>
